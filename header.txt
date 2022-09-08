@@ -1,4 +1,6 @@
 Some text
 Changes from Master
-new changes
+Changes
+
+Text from master: new changes!!!
 
